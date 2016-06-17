@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-  <project path="device/micromax/AQ5001" name="dee3000/device-micromax-AQ5001" remote="github" revision="master"/>
-  <project path="vendor/micromax/AQ5001" name="dee3000/vendor-micromax-AQ5001" remote="github" revision="master"/>
-</manifest>
