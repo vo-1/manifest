@@ -1,20 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remove-project name="CyanogenMod/android_system_core" />
-  <remove-project name="CyanogenMod/android_system_netd" />
-  <remove-project name="CyanogenMod/android_external_tinycompress" />
-  <remove-project name="CyanogenMod/android_frameworks_base" />
-  <remove-project name="CyanogenMod/android_frameworks_opt_telephony" />
-  <remove-project name="CyanogenMod/android_packages_services_Telecomm" />
-  <remove-project name="CyanogenMod/android_packages_services_Telephony" />
- 
-  <project path="system/core" name="dee3000/system-core" remote="github" revision="master"/>
-  <project path="system/netd" name="dee3000/system-netd" remote="github" revision="master"/>
-  <project path="external/tinycompress" name="dee3000/external-tinycompress" remote="github" revision="master"/>
-  <project path="frameworks/base" name="dee3000/frameworks-base" remote="github" revision="master"/>
-  <project path="frameworks/opt/telephony" name="dee3000/frameworks-opt-telephony" remote="github" revision="master"/>
-  <project path="packages/services/Telecomm" name="dee3000/packages-services-Telecomm" remote="github" revision="master"/>
-  <project path="packages/services/Telephony" name="dee3000/packages-services-Telephony" remote="github" revision="master"/>
   <project path="device/micromax/AQ5001" name="dee3000/device-micromax-AQ5001" remote="github" revision="master"/>
   <project path="vendor/micromax/AQ5001" name="dee3000/vendor-micromax-AQ5001" remote="github" revision="master"/>
 </manifest>
